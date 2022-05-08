@@ -3,11 +3,11 @@
 
 Forked from https://github.com/abzargar/COVID-Classifier
 
-## Citation to the original paper
+### Citation to the original paper
     Zargari Khuzani, A., Heidari, M. & Shariati, S.A. COVID-Classifier: an automated machine learning model to assist in the diagnosis of COVID-19 infection in chest X-ray images. Sci Rep 11, 9887 (2021). https://doi.org/10.1038/s41598-021-88807-2
-## Link to the original paper’s repo
+### Link to the original paper’s repo
     https://github.com/abzargar/COVID-Classifier
-## Dependencies
+### Dependencies
     * scikit-image
     * scikit-learn
     * opencv-python
@@ -16,11 +16,11 @@ Forked from https://github.com/abzargar/COVID-Classifier
     * tensorflow
     * ipython
     * pydot
-## Data download instruction
+### Data download instruction
     Used dataset is available in this path: 
     https://github.com/abzargar/COVID-Classifier/tree/master/dataset
 
-## Preprocessing
+### Preprocessing
 ```
     preprocess_images.py 
     # Run for each (normal, covid, pneumonia)
@@ -36,11 +36,11 @@ Forked from https://github.com/abzargar/COVID-Classifier
     #Run for each  (normal, covid, pneumonia)
 ```
         
-## Training and Evaluation
+### Training and Evaluation
 ```
     train_model.py
     # Training and Evaluation
 ```
 
-## Table of results
+### Table of results
     The claim in the paper was reproducible. Details of the results are documented in the project submission. 

@@ -26,7 +26,7 @@ Forked from https://github.com/abzargar/COVID-Classifier
     * evaluate_features.py
         * Run for each  (normal, covid, pneumonia)
 * Training and Evaluation
-    * Train_model.py
+    * train_model.py
         * Training
         * Evaluation
 * Table of results
